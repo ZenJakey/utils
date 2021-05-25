@@ -45,7 +45,7 @@ var ColorStrings = map[string]int{
 	"hotpink": Hotpink,
 	"turquoise": Turquoise,
 	"lilac": Lilac,
-	"rainbow": Rainbow
+	"rainbow": Rainbow,
 }
 
 // GetColorStringForInt does what it sounds like
