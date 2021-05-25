@@ -1,4 +1,4 @@
-module github.com/automuteus/utils
+module github.com/ZenJakey/utils
 
 go 1.15
 
